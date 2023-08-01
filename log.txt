@@ -1,0 +1,15 @@
+2022-12-14 22:30:37,019 root  INFO     Script being executed: /Users/bowen/Documents/Python/Manim/ManimReps/im2markup/scripts/preprocessing/preprocess_images.py
+2022-12-14 22:30:37,028 root  INFO     Creating pool with 4 threads
+2022-12-14 22:30:37,121 root  INFO     Jobs running...
+2022-12-14 22:31:17,253 root  INFO     data/sample/images/f0bf0dc25d.png is blank, crop a white image of default size!
+2022-12-14 22:31:35,672 root  INFO     data/sample/images/1f6cbf77e4.png is blank, crop a white image of default size!
+2022-12-14 22:31:41,519 root  INFO     Jobs finished
+2022-12-14 22:31:53,014 root  INFO     Script being executed: /Users/bowen/Documents/Python/Manim/ManimReps/im2markup/scripts/preprocessing/preprocess_formulas.py
+2022-12-14 22:31:53,141 root  ERROR    FAILED: cat data/sample/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > data/sample/formulas.norm.lst 
+2022-12-14 22:31:53,142 root  INFO     Jobs finished
+2022-12-14 22:32:07,872 root  INFO     Script being executed: /Users/bowen/Documents/Python/Manim/ManimReps/im2markup/scripts/preprocessing/preprocess_filter.py
+2022-12-14 22:32:43,400 root  INFO     Script being executed: /Users/bowen/Documents/Python/Manim/ManimReps/im2markup/scripts/preprocessing/preprocess_filter.py
+2022-12-14 22:33:08,809 root  INFO     Script being executed: /Users/bowen/Documents/Python/Manim/ManimReps/im2markup/scripts/preprocessing/preprocess_filter.py
+2022-12-14 22:33:20,203 root  INFO     Script being executed: /Users/bowen/Documents/Python/Manim/ManimReps/im2markup/scripts/preprocessing/generate_latex_vocab.py
+2022-12-14 22:33:20,204 root  INFO     #UNK's: 0
+2022-12-14 22:33:20,204 root  INFO     Jobs finished
